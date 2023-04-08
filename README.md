@@ -1,4 +1,4 @@
-![Header GitHub mayracmg](https://media-exp1.licdn.com/dms/image/C4E16AQFcGbalrhIIwQ/profile-displaybackgroundimage-shrink_350_1400/0/1668139232338?e=1674086400&v=beta&t=UbrSKy-74EDiVabRLCRDvaRJko1K99gdC9VySfNgu0c)
+![Header GitHub mayracmg](https://github.com/mayracmg/mayracmg/blob/09e11bf2931820878219be9e3483a056ca956d72/Banner.png)
 <h1 align='center'>Holi 😀 soy Mayra 👗👩‍🏫👩‍💻</h1>
 Tengo un proyecto personal que es un canal de YouTube donde resuelvo retos de programación, que son útiles para mejorar el pensamiento lógico o solución de problemas.
 
